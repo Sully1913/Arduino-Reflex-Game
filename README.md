@@ -20,7 +20,6 @@ This system is a hardware-software integration designed to measure and analyze h
 * **Environment:** Arduino IDE
 
 ## Screenshots & Demo
-*Gameplay demonstration:*
 <img width="800" height="463" alt="ab740343-18bb-4a16-be27-e2f17505c98f-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/574a8cfb-1416-4cd3-a9c0-2a6fb1f3948d" />
 
 
