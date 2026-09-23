@@ -1,4 +1,4 @@
-# Arduino Reflex Game ⏱️
+# Arduino Reflex Game
 
 ## Project Scope
 This system is a hardware-software integration designed to measure and analyze human reaction times. It encompasses the full lifecycle of an embedded device, from raw electronic component soldering to the implementation of the microcontroller's control logic.
